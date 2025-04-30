@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9kOn9imXxEU=",
+  "dgSpecHash": "cldDfRAaCYg=",
   "success": true,
   "projectFilePath": "C:\\Dev\\ActivityTracker\\ActivityTracker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\md\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.4\\microsoft.win32.systemevents.9.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
