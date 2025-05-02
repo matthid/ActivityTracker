@@ -87,6 +87,7 @@ class Program
 
   static void WriteHeartbeat()
   {
+    if (!_isUnlocked) return;
     TimeSpan ts = TimeSpan.FromSeconds(-1);
     if (_unlockTime.HasValue)
     {
